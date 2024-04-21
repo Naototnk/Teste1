@@ -15,6 +15,14 @@
 
 
 
+x = 10
+
+if x < 5:
+    print ("não é menor")
+
+
+else:
+    print("é maior")
 
 
 print("oi")
