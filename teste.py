@@ -24,6 +24,10 @@ if x < 5:
 else:
     print("é maior")
 
+develop
 print ("123")
+
+
+main
 print("oi")
 print("Naotin")
