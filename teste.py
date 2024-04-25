@@ -13,8 +13,17 @@
 
 #Git Merge = Junta da cópia da branch, para a Main.
 
-print ("Todos vocês são gays")
 
 
+x = 10
+
+if x < 5:
+    print ("não é menor")
+
+
+else:
+    print("é maior")
+
+print ("123")
 print("oi")
-print("hi")
+print("Naotin")
